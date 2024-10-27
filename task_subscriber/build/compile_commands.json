@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/abdalla/BS_task/src/task_subscriber/build",
+  "command": "/usr/bin/c++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -isystem /opt/ros/foxy/include  -g   -std=gnu++14 -o CMakeFiles/task_subscriber.dir/src/task_subscriber.cpp.o -c /home/abdalla/BS_task/src/task_subscriber/src/task_subscriber.cpp",
+  "file": "/home/abdalla/BS_task/src/task_subscriber/src/task_subscriber.cpp"
+}
+]

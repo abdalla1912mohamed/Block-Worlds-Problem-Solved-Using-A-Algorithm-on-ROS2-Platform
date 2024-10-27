@@ -1,0 +1,10 @@
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/install/strip.dir
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/install/local.dir
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/install.dir
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/list_install_components.dir
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/rebuild_cache.dir
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/edit_cache.dir
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/test.dir
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/task_subscriber.dir
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/task_subscriber_uninstall.dir
+/home/abdalla/BS_task/src/task_subscriber/build/CMakeFiles/uninstall.dir
